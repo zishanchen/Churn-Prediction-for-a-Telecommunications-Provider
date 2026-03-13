@@ -15,8 +15,6 @@ The analysis is based on a relational database format split across four core dat
 
 ## Repository Structure
 ```
-telecom-churn-prediction/
-│
 ├── data/                   # Directory for all data files
 │   ├── raw/                # Original, immutable data
 │   │   ├── churn_analysis.csv
