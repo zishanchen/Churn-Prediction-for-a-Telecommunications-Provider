@@ -46,8 +46,7 @@ The model was then applied to the unlabelled dataset (customers without a docume
 ## How to Run the Project
 1. **Clone the repository:**
    ```
-   git clone [https://github.com/yourusername/telecom-churn-prediction.git](https://github.com/yourusername/telecom-churn-prediction.git)
-   cd telecom-churn-prediction
+   git clone https://github.com/zishanchen/churn-prediction-for-a-telecommunications.git
    ```
 2. **Create a virtual environment and install dependencies:**
    ```
